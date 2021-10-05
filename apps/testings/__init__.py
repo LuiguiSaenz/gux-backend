@@ -1,0 +1,1 @@
+# apps/daily_logs/__init__.py

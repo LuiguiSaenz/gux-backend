@@ -1,0 +1,11 @@
+coreapi
+django < 3.0
+django-cors-headers
+django-filter
+django-pipeline
+djangorestframework
+psycopg2==2.8.6
+pip-tools
+pygments
+python-dotenv
+unipath
